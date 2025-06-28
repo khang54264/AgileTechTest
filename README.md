@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Fullstack App
 
 This project is a fullstack application built with React.js and TypeScript for the frontend and Node.js with Express for the backend.
@@ -82,3 +83,6 @@ Feel free to submit issues or pull requests for any improvements or bug fixes.
 ### License
 
 This project is licensed under the MIT License.
+=======
+# AgileTechTest
+>>>>>>> cdc41e34356081bc43c37165f642c5f3716e722e
